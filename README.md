@@ -155,9 +155,21 @@ Next.js 16 · React 19 · Excalidraw · Tailwind CSS 4 · Monaco Editor
 MIT License
 
 ## 联系作者
-微信号： liujuntaoljt 
+微信号： liujuntaoljt
 
 <img width="200"  alt="微信图片_20251103110224_44_85" src="https://github.com/user-attachments/assets/6d8c4da2-af27-4213-b929-0d47fa51e9b5" />
+
+## 💖 赞助
+
+感谢以下赞助者对本项目的支持：
+
+<!-- 赞助者名单 -->
+- API中转站：[AI 网关｜插件世界](https://ai-router.plugins-world.cn)
+
+如果这个项目对你有帮助，欢迎通过以下方式支持：
+- ⭐ 给项目点个 Star
+- 💬 分享给更多需要的人
+- 💰 成为赞助者（联系作者微信）
 
 ---
 
